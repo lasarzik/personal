@@ -1,13 +1,22 @@
-## Robert Lasarzik
-
+# Robert Lasarzik
+## Welcome
 Welcome to my webpage. I am a PostDoc at the WIAS Berlin. 
 
 My research mainly focuses on the theory of generalized solutions to the Ericksen--Leslie model describing the flow of liquid crystals. 
 
+# Research 
+- Generalized solutions to the Ericksen--Leslie model
+- Measure-valued solutions
+- Weak-strong Uniqueness of solutions
+- liquid crystal flow
+- Relative energy approach
 
-
-
-
+# Preprints
+1. Etienne Emmrich, Sabine H. L. Klapp, Robert Lasarzik: Nonstationary models for liquid crystals: A fresh mathematical perspective [Preprint](https://arxiv.org/abs/1708.06937)
+2. Etienne Emmrich, Robert Lasarzik: Existence of weak solutions to the Ericksen–Leslie model for a general class of free energies
+3. Robert Lasarzik: Measure-valued solutions to the Ericksen–Leslie model equipped with the Oseen–Frank energy
+4. Etienne Emmrich, Robert Lasarzik: Weak-strong uniqueness for the general Ericksen–Leslie system in three dimensions
+5. Robert Lasarzik: Weak-strong uniqueness for measure-valued solutions to the Ericksen–Leslie model equipped with the Oseen–Frank free energy
 
 
 You can use the [editor on GitHub](https://github.com/lasarzik/personal/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
