@@ -27,11 +27,11 @@ My research mainly focuses on the theory of generalized solutions to the Erickse
 # Teaching 
 term | course
 ---- | ---------
-WiSe 2016/2017 |  Differentialgleichungen I (Tutorium)  Differentialgleichungen IIB (Übung)
+WiSe 2016/2017 |  Differentialgleichungen I (Tutorium), Differentialgleichungen IIB (Übung)
 SoSe 2016 |  Differentialgleichungen für Ingenieure (Tutorium)
 WiSe 2015/2016 | Differentialgleichungen I (Übung)
 SoSe 2015 | Analysis II (Tutorium)
-WiSe 2014/2015 | Differentialgleichungen I (Übung) Differentialgleichungen I (Tutorium)
+WiSe 2014/2015 | Differentialgleichungen I (Übung), Differentialgleichungen I (Tutorium)
 SoSe 2014 | Analysis III für Ingenieure (Tutorium)
 WiSe 2013/2014 |  Differentialgleichungen für Ingenieure (Tutorium)
 SoSe 2014 | Mathematik für Physiker IV (Tutorium)
