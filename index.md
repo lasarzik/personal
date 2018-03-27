@@ -4,7 +4,7 @@ Welcome to my webpage. I am a PostDoc at the WIAS Berlin.
 
 My research mainly focuses on the theory of generalized solutions to the Ericksen--Leslie model describing the flow of liquid crystals. 
 
-# Research 
+# Research Interests
 - Generalized solutions to the Ericksen--Leslie model
 - Measure-valued solutions
 - Weak-strong Uniqueness of solutions
@@ -18,39 +18,28 @@ My research mainly focuses on the theory of generalized solutions to the Erickse
 4. Etienne Emmrich, Robert Lasarzik: Weak-strong uniqueness for the general Ericksen–Leslie system in three dimensions [Preprint](https://arxiv.org/abs/1712.00660)
 5. Robert Lasarzik: Weak-strong uniqueness for measure-valued solutions to the Ericksen–Leslie model equipped with the Oseen–Frank free energy [WIAS-Preprint](https://www.wias-berlin.de/publications/wias-publ/run.jsp?template=abstract&type=Preprint&year=&number=2474)
 
+# Education and Theses
+- August 2013 -- September 2017 -- PhD in Mathematics at the TU Berlin under the supervision of [Etienne Emmrich](https://www.math.tu-berlin.de/fachgebiete_ag_modnumdiff/diffeqs/v-menue/fg_differentialgleichungen/mitarbeiter/prof_dr_etienne_emmrich/v-menue/home/)
+- April 2012 -- July 2013 Master of science in Mathematics at the TU Berlin
+- September 2011 to -- April 2012 Erasmus stay at the [Ecole Polytechnique](http://www.polytechnique.edu)
+- October 2008 -- September 2011 Bachelor of science in Technomathematics at the TU Berlin
 
-You can use the [editor on GitHub](https://github.com/lasarzik/personal/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+# Teaching 
+term | course
+---- | ---------
+WiSe 2016/2017 |  Differentialgleichungen I (Tutorium)
+ | Differentialgleichungen IIB (Übung)
+SoSe 2016 |  Differentialgleichungen für Ingenieure (Tutorium)
+WiSe 2015/2016 | Differentialgleichungen I (Übung)
+SoSe 2015 | Analysis II (Tutorium)
+WiSe 2014/2015 | Differentialgleichungen I (Übung)
+ | Differentialgleichungen I (Tutorium)
+SoSe 2014 | Analysis III für Ingenieure (Tutorium)
+WiSe 2013/2014 |  Differentialgleichungen für Ingenieure (Tutorium)
+SoSe 2014 | Mathematik für Physiker IV (Tutorium)
+SoSe 2011 | Nichtineare Optimierung (Übung)
+WiSe 2010/2011 | Lineare Algebra für Ingenieure (Tutorium)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Contact 
+lasarzik(at)wias-berlin.de
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lasarzik/personal/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
